@@ -1,6 +1,6 @@
-Página inicial do instagram
+# Página inicial do instagram 
 
-Programação feita em: 
+### Programação feita em: 
 
 - HTML5
 - CSS3
