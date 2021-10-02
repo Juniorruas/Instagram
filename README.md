@@ -1,6 +1,6 @@
 Página inicial do instagram
 
-Programação em: 
+Programação feita em: 
 
 - HTML5
 - CSS3
